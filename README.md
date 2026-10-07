@@ -277,7 +277,6 @@ DSA-3-Source-Code-Clone-Detector-Project/
 | Name | Roll No. |
 |---|---|
 | **Thodeti Arun** | 2520030456 |
-| **Dheeraj Naidu** | 2520080067 |
 
 **Guide:** Mrs. Ch. Anitha, Assistant Professor, CS&IT
 **Section:** 11 · **Institution:** K L Deemed to be University, Hyderabad, Telangana, India
